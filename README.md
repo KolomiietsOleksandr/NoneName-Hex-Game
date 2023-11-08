@@ -1,9 +1,11 @@
 # Hex-game (Noname)
 
+<img src="https://media.discordapp.net/attachments/856234593153056781/1171913339882971168/Example.png?ex=655e6859&is=654bf359&hm=685aa043660c6596a1285de9a09473c0406bab15c10e05adcf9c9c1c19d86e07&=&width=1115&height=676">
+
 A turn-based strategy game with a pixel art top view. The game will take place on hexagonal cells in different terrains. Each cell has its own buffs and debuffs. It will be possible to change the terrain by digging trenches, building fortifications or strategic buildings.
 
 
-## Plains and forests
+## Plains and forests 0.1
 Standard location for combat operations on plains and forests
 
 **Example of map:**
@@ -20,7 +22,7 @@ Standard location for combat operations on plains and forests
 | Forest  | Forest. While in the forest, all troops reduce their detection distance by 2 cells         | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434872775135232/Foret.png?ex=655caabd&is=654a35bd&hm=7c99da92e8773446796ee916717913565d67bea69295418eb17c6c7984035ddf&=" width="100" height="80">  |
 | Lake  | We'll have to go around it, it hinders movement        | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434888667340800/Lake.png?ex=655caac1&is=654a35c1&hm=d8506d51fb0236b5759423f59a513d98b057a9d999642bdf5849fac0f0ac7c2a&=" width="100" height="80">  |
 
-## Defense structures
+## Defense structures 0.2
 
 Structures for the construction and fortification of combat positions, as well as obstacles for enemy troops.
 
@@ -46,3 +48,30 @@ Structures for the construction and fortification of combat positions, as well a
 4. Barbed wire - delays infantry for one turn and deals 20% damage, can be run over by vehicles.
 5. Anti-tank hedgehogs - do not allow vehicles to pass, but infantry can cross them. Can be broken by infantry sabotage.
 6. Minefield - visible only to the owner, blows up 1-5 infantry units or 1-2 vehicles.
+
+## Buildings 0.3
+
+In addition to defensive structures, you can also build strategic buildings, as: Barracks, Factories, and Cities. Within a 3-cell radius of factories and barracks, empty cells belonging to the player provide 1 point for army construction. Some structures have additional points (Cities, forests, lakes). Build a strong economy for victory!
+
+**Base**
+The base is the main goal, and when it is destroyed or captured, the game ends. Protect it until the last fighter is left.
+
+<img src="https://media.discordapp.net/attachments/856234593153056781/1171913321755181056/Base.png?ex=655e6855&is=654bf355&hm=a8784e00c6509c2b4a059c23291ed94fe371322d4ffcebda4045b94d4253e660&=" width="200" height="160">
+
+**Barracks**
+| Level 1      | Level 2      | Level 3      |
+|------------------|------------------|------------------|
+| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321046343740/Barracks_1lvl.png?ex=655e6854&is=654bf354&hm=7752e971059fa84d0d5a7250fac4fe8a76a20e1ad74a4196e0d9c9a34d7b5b54&=" width="200" height="160">| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321327374376/Barracks_2lvl.png?ex=655e6854&is=654bf354&hm=c58d7dea7311e92168fd9d8b6ee1538e2dd2cbbc1e90d17abbad4b8e2fd23254&=" width="200" height="160"> | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321541287946/Barracks_3lvl.png?ex=655e6854&is=654bf354&hm=c93583a2092798f5bd0a3e3f3c6104b74a51ac5c5b6c7bcffad5368f5e0fb62f&=" width="200" height="160"> |
+| <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> |
+
+**Factory**
+| Level 1      | Level 2      | Level 3      |
+|------------------|------------------|------------------|
+| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322594054274/Factory_1lvl.png?ex=655e6855&is=654bf355&hm=5337778527c9f20d63850d0df375b1a3e9a61860d611ad2b63c3e62ee6ce288e&=" width="200" height="160">| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322820550706/Factory_2lvl.png?ex=655e6855&is=654bf355&hm=a91941af4096d2ed0fff972392520bc43664a4244a48b2187a156560ca1549e6&=" width="200" height="160"> | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913323005083658/Factory_3lvl.png?ex=655e6855&is=654bf355&hm=eeb1b3de7dc23035480ba9aa818b0447061aa716900d75b62faff2296c6c32dd&=" width="200" height="160"> |
+| <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> |
+
+**City**
+| Level 1      | Level 2      | Level 3      |
+|------------------|------------------|------------------|
+| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321973297323/City_1lvl.png?ex=655e6855&is=654bf355&hm=f127502767e49a96485e10019a600e0bb94936f3cc0869f928b1fc63587e8e7e&=" width="200" height="160">| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322178822254/City_2lvl.png?ex=655e6855&is=654bf355&hm=19b62d4cb92e4c3b18ca62cd62a2b430d64f337fe354cc5c131f8aa894691962&=" width="200" height="160"> | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322401103912/City_3lvl.png?ex=655e6855&is=654bf355&hm=e6788e9e4793f3ff744be7b0f25d3ba3dc60e3ceb7f9dba16988050110e98ecf&=" width="200" height="160"> |
+| <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> |
