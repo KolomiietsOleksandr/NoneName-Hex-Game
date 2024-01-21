@@ -83,7 +83,7 @@ The base is the main goal, and when it is destroyed or captured, the game ends. 
 Buid menu: <br>
 Contains information about the structure, its capabilities, and price. <br><br>  
 Interaction menu:<br> Contains buttons for interacting with structures, as well as information about the next improvement of the structure. <br>
-ㅤ▹ㅤDestroy structure <br> ㅤ▹ㅤReplace (trench) / produce (barracks or factory)<br>
+ㅤ▹ㅤDestroy structure <br> ㅤ▹ㅤReplace (trench) / produce <br>
 ㅤ▹ㅤUpgrade structure
 </td>
     <td style="border: none;">
