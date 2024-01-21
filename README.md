@@ -75,3 +75,19 @@ The base is the main goal, and when it is destroyed or captured, the game ends. 
 |------------------|------------------|------------------|
 | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321973297323/City_1lvl.png?ex=655e6855&is=654bf355&hm=f127502767e49a96485e10019a600e0bb94936f3cc0869f928b1fc63587e8e7e&=" width="200" height="160">| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322178822254/City_2lvl.png?ex=655e6855&is=654bf355&hm=19b62d4cb92e4c3b18ca62cd62a2b430d64f337fe354cc5c131f8aa894691962&=" width="200" height="160"> | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322401103912/City_3lvl.png?ex=655e6855&is=654bf355&hm=e6788e9e4793f3ff744be7b0f25d3ba3dc60e3ceb7f9dba16988050110e98ecf&=" width="200" height="160"> |
 | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> |
+
+## Select and Upgrade 0.3
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">The ability to select cells and further interact with them has been added. When you click on a cell, a menu appears with a choice of what you want to build.<br><br>  Menu: <br>ㅤ▹ㅤLogistic structures <br>ㅤ▹ㅤDefense structures<br>ㅤ▹ㅤObstacles and trapsb<br><br> 
+Buid menu: <br>
+Contains information about the structure, its capabilities, and price. <br><br>  
+Interaction menu:<br> Contains buttons for interacting with structures, as well as information about the next improvement of the structure. <br>
+ㅤ▹ㅤDestroy structure <br> ㅤ▹ㅤReplace (trench) / produce (barracks or factory)<br>
+ㅤ▹ㅤUpgrade structure
+</td>
+    <td style="border: none;">
+    <img src="SelectionExample.gif" width="450" height="450">
+    </td>
+  </tr>
+</table>
