@@ -92,13 +92,17 @@ Interaction menu:<br> Contains buttons for interacting with structures, as well 
   </tr>
 </table>
 
-##Infantry
-**Barracks**
-| Level 1      |  Level 2       |  Level 2       |  Level 3       |  Level 3       |
+## Infantry 0.4
+
+<h3 align="center"> <b>Barracks</b> </h3>
+
+|  <img src="Infantry/Barracks/Recruit.png" width="75%">    |   <img src="Infantry/Barracks/Shotgun-man.png" width="75%">    |   <img src="Infantry/Barracks/Rifle-man.png" width="75%">    |   <img src="Infantry/Barracks/Bazooka-man.png" width="75%">    |   <img src="Infantry/Barracks/Sniper.png" width="75%">    |
 |------------------|------------------|------------------|------------------|------------------|
 |  **Recruit** | **Shotgun-man** | **Rifle-man** | **Bazooka-man** | **Sniper** |
-|  <img src="Infantry/Barracks/Recruit.png" width="75%">    |   <img src="Infantry/Barracks/Shotgun-man.png" width="75%">    |   <img src="Infantry/Barracks/Rifle-man.png" width="75%">    |   <img src="Infantry/Barracks/Bazooka-man.png" width="75%">    |   <img src="Infantry/Barracks/Sniper.png" width="75%">    |
-| Coming soon | Coming soon | Coming soon | Coming soon | Coming soon |
-|  **Scouting car** | **Mortar-man** | **APC** | **Anti-tank cannon** | **Tank** |
+
+<h3 align="center"> <b>Factory</b> </h3>
+
 |  <img src="Infantry/Factory/Scouting-car.png" width="75%">    |   <img src="Infantry/Factory/Mortar-man.png" width="75%">    |   <img src="Infantry/Factory/ACP.png" width="75%">    |   <img src="Infantry/Factory/Anti-tank-cannon.png" width="75%">    |   <img src="Infantry/Factory/Tank.png" width="75%">    |
-| Coming soon | Coming soon | Coming soon | Coming soon | Coming soon |
+|------------------|------------------|------------------|------------------|------------------|
+|  **Scouting car** | **Mortar-man** | **APC** | **Anti-tank cannon** | **Tank** |
+
