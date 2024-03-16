@@ -1,6 +1,6 @@
 # Hex-game (Noname)
 
-<img src="https://media.discordapp.net/attachments/856234593153056781/1171913339882971168/Example.png?ex=655e6859&is=654bf359&hm=685aa043660c6596a1285de9a09473c0406bab15c10e05adcf9c9c1c19d86e07&=&width=1115&height=676">
+<img src="https://media.discordapp.net/attachments/856234593153056781/1171913339882971168/Example.png?ex=66048559&is=65f21059&hm=63938e3d11ba63a33e96f6c210259d02412388fc6cb466d19bb8c863b0d0f50d&=&format=webp&quality=lossless&width=705&height=428">
 
 A turn-based strategy game with a pixel art top view. The game will take place on hexagonal cells in different terrains. Each cell has its own buffs and debuffs. It will be possible to change the terrain by digging trenches, building fortifications or strategic buildings.
 
@@ -10,17 +10,17 @@ Standard location for combat operations on plains and forests
 
 **Example of map:**
 
-<img src="https://cdn.discordapp.com/attachments/856234593153056781/1171429927074148423/PlainsAndForet_Example.png?ex=655ca622&is=654a3122&hm=918e94dbd3987198438898f36f6d5384245679b6ee4beb27f2cc5e598629e808&" width="70%" height="70%">
+<img src="https://media.discordapp.net/attachments/856234593153056781/1171429927074148423/PlainsAndForet_Example.png?ex=6602c322&is=65f04e22&hm=b283c90452888f5c73eed985660528b1fe63092049f4bb4520dfdabab164665d&=&format=webp&quality=lossless&width=705&height=523" width="70%" height="70%">
 
 **Cells buffs and debuffs:**
 
 | Name        | Desscription           | Sprite     |
 |--------------|----------------|--------------|
-| Plain  | Simple cells without additional features         | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434875820187748/Plain1.png" width="100" height="80"> |
-| Plain 2 | Simple cells without additional features         | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434879171436554/Plain2.png?ex=655caabf&is=654a35bf&hm=fe6430c70c6ca864d34736d82d94a1958b36c16073d776304f969554d50e30d2&=" width="100" height="80"> |
-| Shrubs  | A cell with bushes where an army can hide and reduce its detection by 1 cell.         | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434884338815016/Shrubs.png?ex=655caac0&is=654a35c0&hm=af28a9202d45f8604d280fa219cfebb8f836f6a8817c9ccb121273989ab55d36&=" width="100" height="80"> |
-| Forest  | Forest. While in the forest, all troops reduce their detection distance by 2 cells         | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434872775135232/Foret.png?ex=655caabd&is=654a35bd&hm=7c99da92e8773446796ee916717913565d67bea69295418eb17c6c7984035ddf&=" width="100" height="80">  |
-| Lake  | We'll have to go around it, it hinders movement        | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434888667340800/Lake.png?ex=655caac1&is=654a35c1&hm=d8506d51fb0236b5759423f59a513d98b057a9d999642bdf5849fac0f0ac7c2a&=" width="100" height="80">  |
+| Plain  | Simple cells without additional features         | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434875820187748/Plain1.png?ex=6602c7be&is=65f052be&hm=ba276366f5af7a877c6211711cdbe200976031466a5d181611e452429c063e83&=&format=webp&quality=lossless" width="100" height="80"> |
+| Plain 2 | Simple cells without additional features         | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434879171436554/Plain2.png?ex=6602c7bf&is=65f052bf&hm=f7a69c0af5a9b33407a61b08fb6a81c9a6f248d8e5318440dcc0d523084b5cb0&=&format=webp&quality=lossless" width="100" height="80"> |
+| Shrubs  | A cell with bushes where an army can hide and reduce its detection by 1 cell.         | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434884338815016/Shrubs.png?ex=6602c7c0&is=65f052c0&hm=b23ec7cb76791f377aafa7786c7a757b22c028295d40762ee54ec33a005a4e00&=&format=webp&quality=lossless" width="100" height="80"> |
+| Forest  | Forest. While in the forest, all troops reduce their detection distance by 2 cells         | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434872775135232/Foret.png?ex=6602c7bd&is=65f052bd&hm=f455a72c8fb8d211fe62b132b50217f2475216ff1ddb54d4183a526926f27705&=&format=webp&quality=lossless" width="100" height="80">  |
+| Lake  | We'll have to go around it, it hinders movement        | <img src="https://media.discordapp.net/attachments/856234593153056781/1171434888667340800/Lake.png?ex=6602c7c1&is=65f052c1&hm=a9a84be3e1e8cd0f56e8b492453f76fae4e01ebb44b60d1c2c087dc5bee82066&=&format=webp&quality=lossless" width="100" height="80">  |
 
 ## Defense structures 0.2
 
@@ -28,7 +28,7 @@ Structures for the construction and fortification of combat positions, as well a
 
 **Sprites:**
 
-<img src="https://media.discordapp.net/attachments/856234593153056781/1171477110230106173/Defense-structures.png?ex=655cd214&is=654a5d14&hm=239a5c78d9b1642e820427b8bd074e5720772d4df0f6e21331a7dea65beb3969&=&width=1063&height=676" width="70%" height="70%">
+<img src="https://media.discordapp.net/attachments/856234593153056781/1171477110230106173/Defense-structures.png?ex=6602ef14&is=65f07a14&hm=5f91aa1f598b7cdac70ab22251cc5d47d91427b932ad1c473637728f5aad66e7&=&format=webp&quality=lossless&width=705&height=448" width="70%" height="70%">
 
 1. Trench - a reliable shelter for infantry, where they can wait out the shelling or conduct defensive actions.
    - Level 1: -50% damage from infantry at a distance of more than 2 square, -15% damage from shelling, maximum capacity of 3 soldiers
@@ -56,24 +56,24 @@ In addition to defensive structures, you can also build strategic buildings, as:
 **Base**
 The base is the main goal, and when it is destroyed or captured, the game ends. Protect it until the last fighter is left.
 
-<img src="https://media.discordapp.net/attachments/856234593153056781/1171913321755181056/Base.png?ex=655e6855&is=654bf355&hm=a8784e00c6509c2b4a059c23291ed94fe371322d4ffcebda4045b94d4253e660&=" width="200" height="160">
+<img src="https://media.discordapp.net/attachments/856234593153056781/1171913321755181056/Base.png?ex=66048555&is=65f21055&hm=50d298cc4ac4907ec568eb7a39354578601d968dbb25289e8869723043a51517&=&format=webp&quality=lossless" width="200" height="160">
 
 **Barracks**
 | Level 1      | Level 2      | Level 3      |
 |------------------|------------------|------------------|
-| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321046343740/Barracks_1lvl.png?ex=655e6854&is=654bf354&hm=7752e971059fa84d0d5a7250fac4fe8a76a20e1ad74a4196e0d9c9a34d7b5b54&=" width="200" height="160">| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321327374376/Barracks_2lvl.png?ex=655e6854&is=654bf354&hm=c58d7dea7311e92168fd9d8b6ee1538e2dd2cbbc1e90d17abbad4b8e2fd23254&=" width="200" height="160"> | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321541287946/Barracks_3lvl.png?ex=655e6854&is=654bf354&hm=c93583a2092798f5bd0a3e3f3c6104b74a51ac5c5b6c7bcffad5368f5e0fb62f&=" width="200" height="160"> |
+| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321046343740/Barracks_1lvl.png?ex=66048554&is=65f21054&hm=9372e87c9eff2b3a23515055eaa41b7fb6001be474be67bae9865243acfd97da&=&format=webp&quality=lossless" width="200" height="160">| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321327374376/Barracks_2lvl.png?ex=66048554&is=65f21054&hm=5adc4fc99b021d3d1e494387f497d7296c07a1ec0a0d1f3739a76b486eb6c8fb&=&format=webp&quality=lossless" width="200" height="160"> | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321541287946/Barracks_3lvl.png?ex=66048554&is=65f21054&hm=4a31b6416734029b620f8d77d2e5d8ad1e8bae9f9e84f7044397056c718946ad&=&format=webp&quality=lossless" width="200" height="160"> |
 | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> |
 
 **Factory**
 | Level 1      | Level 2      | Level 3      |
 |------------------|------------------|------------------|
-| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322594054274/Factory_1lvl.png?ex=655e6855&is=654bf355&hm=5337778527c9f20d63850d0df375b1a3e9a61860d611ad2b63c3e62ee6ce288e&=" width="200" height="160">| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322820550706/Factory_2lvl.png?ex=655e6855&is=654bf355&hm=a91941af4096d2ed0fff972392520bc43664a4244a48b2187a156560ca1549e6&=" width="200" height="160"> | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913323005083658/Factory_3lvl.png?ex=655e6855&is=654bf355&hm=eeb1b3de7dc23035480ba9aa818b0447061aa716900d75b62faff2296c6c32dd&=" width="200" height="160"> |
+| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322594054274/Factory_1lvl.png?ex=66048555&is=65f21055&hm=87612c40704d451be60319038d75d6e8973fef611a4109964fcf74f49f706c81&=&format=webp&quality=lossless" width="200" height="160">| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322820550706/Factory_2lvl.png?ex=66048555&is=65f21055&hm=649b639ba1223386e140aa9c5089fc2aae8c9c518ac3b1d59a6269590a8b5f22&=&format=webp&quality=lossless" width="200" height="160"> | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913323005083658/Factory_3lvl.png?ex=66048555&is=65f21055&hm=6b4307d848c49699938fd9eb17c3810fec4b8d307b33ba947421148293a82128&=&format=webp&quality=lossless" width="200" height="160"> |
 | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> |
 
 **City**
 | Level 1      | Level 2      | Level 3      |
 |------------------|------------------|------------------|
-| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321973297323/City_1lvl.png?ex=655e6855&is=654bf355&hm=f127502767e49a96485e10019a600e0bb94936f3cc0869f928b1fc63587e8e7e&=" width="200" height="160">| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322178822254/City_2lvl.png?ex=655e6855&is=654bf355&hm=19b62d4cb92e4c3b18ca62cd62a2b430d64f337fe354cc5c131f8aa894691962&=" width="200" height="160"> | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322401103912/City_3lvl.png?ex=655e6855&is=654bf355&hm=e6788e9e4793f3ff744be7b0f25d3ba3dc60e3ceb7f9dba16988050110e98ecf&=" width="200" height="160"> |
+| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913321973297323/City_1lvl.png?ex=66048555&is=65f21055&hm=5af56150918e60cfa7038da49e53de25a5de974de5394afc58737fca7b6b8c0e&=&format=webp&quality=lossless" width="200" height="160">| <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322178822254/City_2lvl.png?ex=66048555&is=65f21055&hm=278f4df60f1a29e86a2daaa6c5b56d7c9052b5d69ceb4df580f9f59c21d33ad9&=&format=webp&quality=lossless" width="200" height="160"> | <img src="https://media.discordapp.net/attachments/856234593153056781/1171913322401103912/City_3lvl.png?ex=66048555&is=65f21055&hm=353423f2cf9d7ebaf31c8e27c35b2b1e047126e8d5770b2233f734887ae308a8&=&format=webp&quality=lossless" width="200" height="160"> |
 | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> | <div>Price: coming soon<br>Produce: soon<br>HP: soon</div> |
 
 ## Select and Upgrade 0.3
